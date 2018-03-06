@@ -1,0 +1,25 @@
+{
+  "name": "vuejs",
+  "version": "1.0.0",
+  "description": "VueJs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseAlbertoDev/Vuejs.git"
+  },
+  "keywords": [
+    "vuejs"
+  ],
+  "author": "Jose Alberto Martín Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseAlbertoDev/Vuejs/issues"
+  },
+  "homepage": "https://github.com/JoseAlbertoDev/Vuejs#readme",
+  "dependencies": {
+    "vue": "^2.5.13"
+  }
+}
